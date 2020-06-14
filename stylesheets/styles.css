@@ -69,15 +69,23 @@ a[href="#"] {
 
 .detail-image-container {
     flex: 1 1 auto;
-    display:flex;
+    display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.detail-image-container {
-    flex: 1 1 auto;
+.detail-image-frame {
+    position: relative;
+    text-align: center;
 }
 
 .detail-image {
     width: 90%;
+}
+
+.detail-image-title {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    text-shadow: rgba(0, 0, 0, 0.9) 1px 2px 12px;
+    font-size: 40px;
 }
