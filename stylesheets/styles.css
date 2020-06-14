@@ -35,7 +35,7 @@ a[href="#"] {
     flex: 01 auto;
     order: 2;
     display: flex;
-    justify-content: space-between; 
+    justify-content: space-between;
     list-style: none;
     padding: 0;
     white-space: nowrap;
@@ -51,9 +51,7 @@ a[href="#"] {
     margin-top: 10px;
 }
 
-.thumbnail-item+.thumbnail-item {
-
-}
+.thumbnail-item+.thumbnail-item {}
 
 .thumbnail-image {
     display: block;
@@ -67,6 +65,13 @@ a[href="#"] {
     background: rgb(96, 125, 139);
     color: (202, 238, 255);
     font-size: 18px;
+}
+
+.detail-image-container {
+    flex: 1 1 auto;
+    display:flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .detail-image-container {
