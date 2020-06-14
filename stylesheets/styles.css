@@ -84,6 +84,10 @@ a[href="#"] {
 }
 
 .detail-image-title {
+    position: absolute;
+    bottom: -16px;
+    left: 4px;
+    
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: white;
     text-shadow: rgba(0, 0, 0, 0.9) 1px 2px 12px;
