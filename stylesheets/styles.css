@@ -33,7 +33,8 @@ a[href="#"] {
 
 .thumbnail-list {
     flex: 01 auto;
-    /* list-style: none; */
+    order:2;
+    list-style: none;
     padding: 0;
     white-space: nowrap;
     overflow-x: auto;
