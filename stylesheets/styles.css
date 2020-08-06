@@ -49,9 +49,15 @@ a[href="#"] {
     border: 1px solid rgb(100%, 100%, 100%);
     border: 1px solid rgba(100%, 100%, 100%, 0.8);
     margin-top: 10px;
+
+    transition: transform 133ms;
 }
 
-.thumbnail-item+.thumbnail-item {}
+.thumbnail-item:hover{
+    transform: scale(1.2);
+}
+
+/* .thumbnail-item+.thumbnail-item {} */
 
 .thumbnail-image {
     display: block;
