@@ -22,4 +22,18 @@ https://youtu.be/Hj-k2k6VysU
 Код: https://github.com/gorelikspb/liongram/commits
 Сама галерея онлайн: https://gorelikspb.github.io/liongram/
 
+Кстати
+----
+чтобы дополнительно разобраться в возможностях HTML5
 
+Выполнил упражнения c W3
+https://www.w3resource.com/html-css-exercise/basic/
+
+
+Полученный код HTML сгрупировал по темам:
+https://github.com/gorelikspb/html_samples
+
+В браузере можно посмотреть здесь:
+https://gorelikspb.github.io/html_samples/
+
+Результате не слишком на проект, поэтому не указываю его в  резюме, но все-таки теперь есть представление о довольно богатом синтаксисе (не знаю, какая часть из него используется на практике).
